@@ -15,6 +15,6 @@ HotoPay는 Rhymix 2에서 Toss Payments를 활용한 결재 프로그램입니�
 ## 초기 설정
 
 1. [모듈 설치](./docs/install_module.md)
-2. [모듈 설정](./docs/setting_module.md)
-3. [Toss Payments 연동](./docs/tosspayments_setting.md)
+2. [Toss Payments 연동](./docs/tosspayments_setting.md)
+3. [모듈 설정](./docs/setting_module.md)
 
