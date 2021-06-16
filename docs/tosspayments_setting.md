@@ -17,7 +17,7 @@
 4. API 키 항목에서 `[라이브(혹은 테스트) 클라이언트 키]`와  `[라이브(혹은 테스트) 시크릿 키]`를 복사하여 메모장에 적어주세요
 
 5. `[가상계좌 입금 알림 URL]`과 `[Webhook 콜백 URL]`에는 아래 URL을 적어주세요
-   - https://{자신의 사이트 URL}/hotopay/paymentCallback
+   - https://{자신의 사이트 URL}/hotopay/api/v1/toss/paymentCallback
    
 6. 각각 저장하기 버튼을 눌러주세요
 
