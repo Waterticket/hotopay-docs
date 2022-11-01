@@ -1,6 +1,9 @@
-# HotoPay 모듈 설명서
+# HotoPay 모듈 설명서 (Deprecated)
 
-Rhymix에 Hotopay 모듈 사용법 문서입니다
+Rhymix에 Hotopay 모듈 사용법 문서입니다.  
+최신 문서는 아래 링크를 확인해주세요.
+
+https://hotopaydocs.hotoproject.com
 
 
 
